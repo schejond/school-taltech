@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/schejond/Documents/TalTech/ias0360/Lab_hw_1/src/main.c
+stdio.h
+-
+stdlib.h
+-
+float.h
+-
+simple_neural_networks.h
+/mnt/c/Users/schejond/Documents/TalTech/ias0360/Lab_hw_1/src/simple_neural_networks.h
+
+/mnt/c/Users/schejond/Documents/TalTech/ias0360/Lab_hw_1/src/simple_neural_networks.c
+simple_neural_networks.h
+/mnt/c/Users/schejond/Documents/TalTech/ias0360/Lab_hw_1/src/simple_neural_networks.h
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+float.h
+-
+
+/mnt/c/Users/schejond/Documents/TalTech/ias0360/Lab_hw_1/src/simple_neural_networks.h
+stdint.h
+-
+

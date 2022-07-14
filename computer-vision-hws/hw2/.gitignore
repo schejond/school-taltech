@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.zip
+**/.DS_Store
+my_checkpoint.pth.tar
+data/train_masks/
+data/val_masks/
+__pycache__/

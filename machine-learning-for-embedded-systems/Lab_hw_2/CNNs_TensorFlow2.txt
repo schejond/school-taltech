@@ -1,0 +1,2 @@
+Usefull repository for transfer learning
+https://github.com/calmisential/Basic_CNNs_TensorFlow2

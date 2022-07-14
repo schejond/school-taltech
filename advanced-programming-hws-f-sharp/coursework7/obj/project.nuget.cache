@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z/tvGO7+qh97HIHJEzf0hi3E14+cTCEKt9cOZ+p7V3zbJr2Mtn64yRHX1ak8aLYg+OUe+U8zKH/HPW9d4YW/Tw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\schejond\\Documents\\TalTech\\itt8060-2021\\coursework7\\FileSystem.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\schejond\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Lab_hw_1.dir/src/main.c.o CMakeFiles/Lab_hw_1.dir/src/simple_neural_networks.c.o -o Lab_hw_1  -lm 
